@@ -1,0 +1,4 @@
+- source: project
+  netlify:
+    - id: bbd1d469-d068-42e3-93f2-14693f5a4bd4
+      url: 'andrewschweitzer.netlify.app'

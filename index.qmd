@@ -1,6 +1,6 @@
 ---
-toc: false
 title: "Andrew Schweitzer"
+toc: false
 about:
   template: trestles
   links:

@@ -1,8 +1,21 @@
 ---
 toc: false
+about:
+  template: trestles
+  links:
+        - icon: linkedin
+          text: LinkedIn
+          url: https://www.linkedin.com/in/andrewschweitzr/
+        - icon: github
+          text: Github
+          url: https://github.com/andrewschweitzer
+        - icon: inbox-fill
+          text: Email
+          url: "mailto:andrewschweitzr@g.ucla.edu"
+image: profile-picture.jpg
 ---
 
-## Title
+## About
 
-Title page
+Attached is my current [CV](/docs/CV/CV.pdf "CV")
 

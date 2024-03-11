@@ -7,8 +7,8 @@ website:
     left:
       - href: index.qmd
         text: Home
-      - href: projects.qmd
-        text: Projects
+      #- href: projects.qmd
+      #  text: Projects
   
   page-footer: 
     right: "&copy; 2024, Andrew Schweitzer"

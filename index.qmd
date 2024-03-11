@@ -18,7 +18,6 @@ image: profile-picture.jpg
 
 ## About
 
-Attached is my current [CV](/docs/CV/CV.pdf "CV"). \nextline
+Attached is my current [CV](/docs/CV/CV.pdf "CV").
 
-if ur reading this hi bae! :P
 
